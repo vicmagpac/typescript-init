@@ -1,1 +1,1 @@
-console.log('TypeScript');
+const nome = 'Victor';
